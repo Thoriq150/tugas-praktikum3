@@ -12,3 +12,15 @@
 #### -hasil
 ![Gambar1](gambar/gmbr5.png)
 ![Gambar1](gambar/gmbr6.png)
+
+## 3.string ketupat
+![Gambar1](gambar/gmbr9.png)
+#### -hasil
+![Gambar1](gambar/gmbr8.png)
+
+## 4.membuat luas luingkaran dan flowchartnya
+![Gambar1](gambar/gmbr12.png)
+#### -hasil
+![Gambar1](gambar/gmbr11.png)
+#### -bentuk flowchart
+![Gambar1](gambar/gmbr10.png)
