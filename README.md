@@ -26,6 +26,6 @@
 ![Gambar1](gambar/gmbr10.png)
 
 ## 5.bentuk variable
-![Gambar1](gambar/gmbr11.png)
-### -hasil
 ![Gambar1](gambar/gmbr12.png)
+### -hasil
+![Gambar1](gambar/gmbr11.png)
